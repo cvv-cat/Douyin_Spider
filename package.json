@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "trevlo": "*",
+    "routecraft": "*",
     "canvas": "*",
     "jsdom": "*",
     "jsrsasign": "*",
