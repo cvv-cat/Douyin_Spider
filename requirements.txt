@@ -1,0 +1,11 @@
+asyncio
+aiofiles
+loguru
+python-dotenv
+retry
+openpyxl
+urllib3
+PyExecJS
+requests
+argparse
+websockets

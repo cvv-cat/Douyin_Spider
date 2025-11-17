@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "trevlo": "*",
+    "canvas": "*",
+    "jsdom": "*",
+    "jsrsasign": "*",
+    "sdenv": "*",
+    "vm": "*"
+  }
+}
